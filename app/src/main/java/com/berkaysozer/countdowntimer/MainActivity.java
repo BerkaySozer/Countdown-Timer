@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
                 Toast.makeText(getApplicationContext(), "Done!", Toast.LENGTH_LONG).show();
                 textView.setText("Finished");
             }
-        }.start(); //countDownTimer ı baslatmak için
+        }.start(); //countDownTimer ı baslatmak için asdasdasd
 
     }
 
